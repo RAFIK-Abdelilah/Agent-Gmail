@@ -1,4 +1,3 @@
-# Tab3 hadchi A zaml étape par étape 
 
 ## Configuration OpenAI
 
